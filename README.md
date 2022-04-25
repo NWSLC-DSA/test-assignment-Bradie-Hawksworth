@@ -1,4 +1,6 @@
 # :wave: The Basics of GitHub 
+## 🥐 About Me 
+Bradie here! 👋👋👋👋👋👋
 
 ## 😎 Course overview and learning outcomes 
 This is bradies first change. :cat:
