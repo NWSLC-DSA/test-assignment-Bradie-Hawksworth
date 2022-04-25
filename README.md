@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-## 🥐 About Me 
+## 🥐 About Me!
 Bradie here! 👋👋👋👋👋👋
 
 ## 😎 Course overview and learning outcomes 
